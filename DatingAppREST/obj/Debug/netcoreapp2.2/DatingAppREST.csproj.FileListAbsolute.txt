@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\bin\Debug\netcoreapp2.2\DatingAppREST.deps.json
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\bin\Debug\netcoreapp2.2\DatingAppREST.runtimeconfig.json
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\bin\Debug\netcoreapp2.2\DatingAppREST.runtimeconfig.dev.json
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\bin\Debug\netcoreapp2.2\DatingAppREST.dll
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\bin\Debug\netcoreapp2.2\DatingAppREST.pdb
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\obj\Debug\netcoreapp2.2\DatingAppREST.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\obj\Debug\netcoreapp2.2\DatingAppREST.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\obj\Debug\netcoreapp2.2\DatingAppREST.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\obj\Debug\netcoreapp2.2\DatingAppREST.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\obj\Debug\netcoreapp2.2\DatingAppREST.AssemblyInfo.cs
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\obj\Debug\netcoreapp2.2\DatingAppREST.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\obj\Debug\netcoreapp2.2\DatingAppREST.dll
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\obj\Debug\netcoreapp2.2\DatingAppREST.pdb
+C:\Users\User\source\repos\DatingAppREST\DatingAppREST\obj\Debug\netcoreapp2.2\DatingAppREST.csprojAssemblyReference.cache
